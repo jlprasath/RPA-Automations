@@ -1,0 +1,48 @@
+{
+  "name": "Downloads",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "BalaReva.Excel.Activities": "[2019.4.0]",
+    "BalaReva.PowerPoint.Activities": "[3.0.0]",
+    "BitMiracle.Docotic.Pdf": "[5.10.9957]",
+    "ExceltoPDFConversion.Activities": "[1.1.7]",
+    "ExceltoPDFConversionActivities": "[1.1.5]",
+    "FestSystems.PDFtoExcel.Activities": "[1.0.1]",
+    "HtmlToPdf.Activities": "[1.4.6]",
+    "PDF_Activities": "[1.0.2]",
+    "UiPath.AppulateClient.Activities": "[0.1.6971.31392]",
+    "UiPath.Excel.Activities": "[2.8.5]",
+    "UiPath.Mail.Activities": "[1.8.5]",
+    "UiPath.PDF.Activities": "[3.2.2]",
+    "UiPath.System.Activities": "[20.4.0]",
+    "UiPath.UIAutomation.Activities": "[20.4.1]",
+    "UiPathTeam.ActivitiesReadEmailToPdf": "[1.0.0.2]",
+    "UiPathTeam.PDF.Extensions.Activities": "[2.4.0]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.1.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": []
+  },
+  "expressionLanguage": "VisualBasic"
+}

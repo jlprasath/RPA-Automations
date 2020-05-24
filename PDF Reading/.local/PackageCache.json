@@ -1,0 +1,1217 @@
+{
+  "Packages": [
+    {
+      "Package": {
+        "Id": "BalaReva.Excel.Activities",
+        "Version": "2019.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.excel.activities/2019.4.0\\lib/BalaReva.Excel.Base.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.excel.activities/2019.4.0\\lib/BalaReva.Excel.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.excel.activities/2019.4.0\\lib/BalaReva.Excel.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.excel.activities/2019.4.0\\lib/BalaReva.Utilities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.office.interop.excel/15.0.4795.1000\\lib/net20/Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoftofficecore/15.0.0\\lib/net35/Office.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\balareva.excel.activities\\2019.4.0"
+    },
+    {
+      "Package": {
+        "Id": "BalaReva.PowerPoint.Activities",
+        "Version": "3.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.powerpoint.activities/3.0.0\\lib/BalaReva.PowerPoint.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.powerpoint.activities/3.0.0\\lib/BalaReva.PowerPoint.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.powerpoint.activities/3.0.0\\lib/BalaReva.Utilities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.office.interop.powerpoint/15.0.4420.1017\\lib/net20/Microsoft.Office.Interop.PowerPoint.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\balareva.powerpoint.activities\\3.0.0"
+    },
+    {
+      "Package": {
+        "Id": "BitMiracle.Docotic.Pdf",
+        "Version": "5.10.9957"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.10.9957"
+    },
+    {
+      "Package": {
+        "Id": "ExceltoPDFConversion.Activities",
+        "Version": "1.1.7"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\exceltopdfconversion.activities/1.1.7\\lib/ExceltoPDFConversion.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\exceltopdfconversion.activities\\1.1.7"
+    },
+    {
+      "Package": {
+        "Id": "ExceltoPDFConversionActivities",
+        "Version": "1.1.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\exceltopdfconversionactivities/1.1.5\\lib/ExceltoPDFConversion.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\exceltopdfconversionactivities\\1.1.5"
+    },
+    {
+      "Package": {
+        "Id": "FestSystems.PDFtoExcel.Activities",
+        "Version": "1.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\festsystems.pdftoexcel.activities/1.0.1\\lib/PDFExcelFile.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\festsystems.pdftoexcel.activities\\1.0.1"
+    },
+    {
+      "Package": {
+        "Id": "HtmlToPdf.Activities",
+        "Version": "1.4.6"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\htmlrenderer.core/1.5.1-beta1\\lib/net45/HtmlRenderer.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\htmlrenderer.pdfsharp/1.5.1-beta1\\lib/net45/HtmlRenderer.PdfSharp.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\htmltopdf.activities/1.4.6\\lib/HtmlToPdfConvertLibrary.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\htmltopdf.activities/1.4.6\\lib/HtmlToPdfConvertLibrary.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\pdfsharp/1.50.5147\\lib/net20/PdfSharp.Charting.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\pdfsharp/1.50.5147\\lib/net20/PdfSharp.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\htmltopdf.activities\\1.4.6"
+    },
+    {
+      "Package": {
+        "Id": "PDF_Activities",
+        "Version": "1.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\itextsharp/5.5.13\\lib/itextsharp.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\pdf_activities/1.0.2\\lib/pdfLibrary.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\pdf_activities\\1.0.2"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.AppulateClient.Activities",
+        "Version": "0.1.6971.31392"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.appulateclient.activities/0.1.6971.31392\\lib/net461/UiPath.AppulateClient.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.appulateclient.activities/0.1.6971.31392\\lib/net461/UiPath.AppulateClient.Activities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.appulateclient.activities/0.1.6971.31392\\lib/net461/UiPath.AppulateClient.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.appulateclient.activities\\0.1.6971.31392"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.8.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\closedxml/0.87.1\\lib/net40/ClosedXML.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.excel.activities/2.8.5\\lib/net461/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.excel.activities/2.8.5\\lib/net461/UiPath.Excel.Activities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.excel.activities/2.8.5\\lib/net461/UiPath.Excel.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.excel.activities\\2.8.5"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.8.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\interop.domino.dll/1.0.0\\lib/Interop.Domino.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.mail.activities/1.8.5\\lib/net461/MailKit.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.mail.activities/1.8.5\\lib/net461/MimeKit.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.mail.activities/1.8.5\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.mail.activities/1.8.5\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.mail.activities/1.8.5\\lib/net461/UiPath.Mail.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.mail.activities\\1.8.5"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.PDF.Activities",
+        "Version": "3.2.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.ocr.contracts/2.6.0\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.pdf.activities/3.2.2\\lib/net461/UiPath.PDF.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.pdf.activities/3.2.2\\lib/net461/UiPath.PDF.Activities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.pdf.activities/3.2.2\\lib/net461/UiPath.PDF.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.pdf.activities\\3.2.2"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "20.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.aspnet.signalr.client/2.4.0\\lib/net45/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.rest.clientruntime/2.3.20\\lib/net461/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities/20.4.0\\lib/net461/UiPath.System.Activities.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "20.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath/20.4.7422.14731\\lib/UiPath.Interop.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.ocr.contracts/2.6.0\\lib/net461/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.platform/20.4.0\\lib/net461/UiPath.Platform.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.telemetry.client/1.1.51\\lib/net461/TelemetryClient.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.CV.Activities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.CV.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities/20.4.1\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Core.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.MicrosoftCloud.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.vision/2.0.3\\lib/net461/UiPath.Vision.Tesseract.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPathTeam.ActivitiesReadEmailToPdf",
+        "Version": "1.0.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipathteam.activitiesreademailtopdf/1.0.0.2\\lib/Interop.ADODB.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipathteam.activitiesreademailtopdf/1.0.0.2\\lib/Interop.CDO.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipathteam.activitiesreademailtopdf/1.0.0.2\\lib/MailActivities.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipathteam.activitiesreademailtopdf\\1.0.0.2"
+    },
+    {
+      "Package": {
+        "Id": "UiPathTeam.PDF.Extensions.Activities",
+        "Version": "2.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\pdfsharp/1.50.5147\\lib/net20/PdfSharp.Charting.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\pdfsharp/1.50.5147\\lib/net20/PdfSharp.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipathteam.pdf.extensions.activities/2.4.0\\lib/net461/UiPathTeam.PDF.Extensions.Activities.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipathteam.pdf.extensions.activities\\2.4.0"
+    }
+  ],
+  "Conflicts": [],
+  "ResolvedDependencies": {
+    "AvalonEdit": {
+      "Id": "AvalonEdit",
+      "Version": "5.0.3",
+      "Dependencies": []
+    },
+    "BalaReva.Excel.Activities": {
+      "Id": "BalaReva.Excel.Activities",
+      "Version": "2019.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Office.Interop.Excel",
+          "Item2": "[15.0.4795.1000, )"
+        },
+        {
+          "Item1": "MicrosoftOfficeCore",
+          "Item2": "[15.0.0, )"
+        }
+      ]
+    },
+    "BalaReva.PowerPoint.Activities": {
+      "Id": "BalaReva.PowerPoint.Activities",
+      "Version": "3.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Office.Interop.PowerPoint",
+          "Item2": "[15.0.4420.1017, )"
+        }
+      ]
+    },
+    "BitMiracle.Docotic.Pdf": {
+      "Id": "BitMiracle.Docotic.Pdf",
+      "Version": "5.10.9957",
+      "Dependencies": []
+    },
+    "BouncyCastle": {
+      "Id": "BouncyCastle",
+      "Version": "1.8.5",
+      "Dependencies": []
+    },
+    "ClosedXML": {
+      "Id": "ClosedXML",
+      "Version": "0.87.1",
+      "Dependencies": [
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        }
+      ]
+    },
+    "CsvHelper": {
+      "Id": "CsvHelper",
+      "Version": "2.13.5",
+      "Dependencies": []
+    },
+    "DocumentFormat.OpenXml": {
+      "Id": "DocumentFormat.OpenXml",
+      "Version": "2.5.0",
+      "Dependencies": []
+    },
+    "ExceltoPDFConversion.Activities": {
+      "Id": "ExceltoPDFConversion.Activities",
+      "Version": "1.1.7",
+      "Dependencies": []
+    },
+    "ExceltoPDFConversionActivities": {
+      "Id": "ExceltoPDFConversionActivities",
+      "Version": "1.1.5",
+      "Dependencies": []
+    },
+    "Extended.Wpf.Toolkit": {
+      "Id": "Extended.Wpf.Toolkit",
+      "Version": "2.8.0",
+      "Dependencies": []
+    },
+    "FestSystems.PDFtoExcel.Activities": {
+      "Id": "FestSystems.PDFtoExcel.Activities",
+      "Version": "1.0.1",
+      "Dependencies": []
+    },
+    "HtmlRenderer.Core": {
+      "Id": "HtmlRenderer.Core",
+      "Version": "1.5.1-beta1",
+      "Dependencies": []
+    },
+    "HtmlRenderer.PdfSharp": {
+      "Id": "HtmlRenderer.PdfSharp",
+      "Version": "1.5.1-beta1",
+      "Dependencies": [
+        {
+          "Item1": "HtmlRenderer.Core",
+          "Item2": "[1.5.1-beta1, )"
+        },
+        {
+          "Item1": "PDFsharp",
+          "Item2": "[1.50.4000-beta3b, )"
+        }
+      ]
+    },
+    "HtmlToPdf.Activities": {
+      "Id": "HtmlToPdf.Activities",
+      "Version": "1.4.6",
+      "Dependencies": [
+        {
+          "Item1": "HtmlRenderer.PdfSharp",
+          "Item2": "[1.5.1-beta1, )"
+        }
+      ]
+    },
+    "Humanizer.Core": {
+      "Id": "Humanizer.Core",
+      "Version": "2.4.2",
+      "Dependencies": []
+    },
+    "interop.domino.dll": {
+      "Id": "interop.domino.dll",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "iTextSharp": {
+      "Id": "iTextSharp",
+      "Version": "5.5.13",
+      "Dependencies": []
+    },
+    "Microsoft.AspNet.SignalR.Client": {
+      "Id": "Microsoft.AspNet.SignalR.Client",
+      "Version": "2.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[6.0.4, )"
+        }
+      ]
+    },
+    "Microsoft.Exchange.WebServices": {
+      "Id": "Microsoft.Exchange.WebServices",
+      "Version": "2.2.0",
+      "Dependencies": []
+    },
+    "Microsoft.Office.Interop.Excel": {
+      "Id": "Microsoft.Office.Interop.Excel",
+      "Version": "15.0.4795.1000",
+      "Dependencies": []
+    },
+    "Microsoft.Office.Interop.PowerPoint": {
+      "Id": "Microsoft.Office.Interop.PowerPoint",
+      "Version": "15.0.4420.1017",
+      "Dependencies": []
+    },
+    "Microsoft.Rest.ClientRuntime": {
+      "Id": "Microsoft.Rest.ClientRuntime",
+      "Version": "2.3.20",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        }
+      ]
+    },
+    "Microsoft.VisualStudio.OLE.Interop": {
+      "Id": "Microsoft.VisualStudio.OLE.Interop",
+      "Version": "7.10.6071",
+      "Dependencies": []
+    },
+    "MicrosoftOfficeCore": {
+      "Id": "MicrosoftOfficeCore",
+      "Version": "15.0.0",
+      "Dependencies": []
+    },
+    "Newtonsoft.Json": {
+      "Id": "Newtonsoft.Json",
+      "Version": "11.0.2",
+      "Dependencies": []
+    },
+    "NPOI": {
+      "Id": "NPOI",
+      "Version": "2.4.1",
+      "Dependencies": [
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "PDFsharp": {
+      "Id": "PDFsharp",
+      "Version": "1.50.5147",
+      "Dependencies": []
+    },
+    "PDF_Activities": {
+      "Id": "PDF_Activities",
+      "Version": "1.0.2",
+      "Dependencies": [
+        {
+          "Item1": "iTextSharp",
+          "Item2": "[5.5.13, )"
+        }
+      ]
+    },
+    "SharpZipLib": {
+      "Id": "SharpZipLib",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "System.IO.Abstractions": {
+      "Id": "System.IO.Abstractions",
+      "Version": "3.0.10",
+      "Dependencies": []
+    },
+    "System.Threading.Tasks.Dataflow": {
+      "Id": "System.Threading.Tasks.Dataflow",
+      "Version": "4.10.0",
+      "Dependencies": []
+    },
+    "System.ValueTuple": {
+      "Id": "System.ValueTuple",
+      "Version": "4.5.0",
+      "Dependencies": []
+    },
+    "UiPath": {
+      "Id": "UiPath",
+      "Version": "20.4.7422.14731",
+      "Dependencies": []
+    },
+    "UiPath.AppulateClient.Activities": {
+      "Id": "UiPath.AppulateClient.Activities",
+      "Version": "0.1.6971.31392",
+      "Dependencies": []
+    },
+    "UiPath.Excel.Activities": {
+      "Id": "UiPath.Excel.Activities",
+      "Version": "2.8.5",
+      "Dependencies": [
+        {
+          "Item1": "ClosedXML",
+          "Item2": "[0.87.1, )"
+        },
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.5.0, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.OLE.Interop",
+          "Item2": "[7.10.6071, )"
+        },
+        {
+          "Item1": "NPOI",
+          "Item2": "[2.4.1, )"
+        },
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.Mail.Activities": {
+      "Id": "UiPath.Mail.Activities",
+      "Version": "1.8.5",
+      "Dependencies": [
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "Microsoft.Exchange.WebServices",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "BouncyCastle",
+          "Item2": "[1.8.5, )"
+        },
+        {
+          "Item1": "interop.domino.dll",
+          "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.OCR.Contracts": {
+      "Id": "UiPath.OCR.Contracts",
+      "Version": "2.6.0",
+      "Dependencies": []
+    },
+    "UiPath.PDF.Activities": {
+      "Id": "UiPath.PDF.Activities",
+      "Version": "3.2.2",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.6.0, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "BitMiracle.Docotic.Pdf",
+          "Item2": "[5.10.9957, )"
+        }
+      ]
+    },
+    "UiPath.Platform": {
+      "Id": "UiPath.Platform",
+      "Version": "20.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "System.IO.Abstractions",
+          "Item2": "[3.0.10, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        }
+      ]
+    },
+    "UiPath.System.Activities": {
+      "Id": "UiPath.System.Activities",
+      "Version": "20.4.0",
+      "Dependencies": [
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[2.13.5, )"
+        },
+        {
+          "Item1": "Microsoft.AspNet.SignalR.Client",
+          "Item2": "[2.4.0, )"
+        },
+        {
+          "Item1": "Microsoft.Rest.ClientRuntime",
+          "Item2": "[2.3.20, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        }
+      ]
+    },
+    "UiPath.Telemetry.Client": {
+      "Id": "UiPath.Telemetry.Client",
+      "Version": "1.1.51",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.1, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Dataflow",
+          "Item2": "[4.10.0, )"
+        }
+      ]
+    },
+    "UiPath.UIAutomation.Activities": {
+      "Id": "UiPath.UIAutomation.Activities",
+      "Version": "20.4.1",
+      "Dependencies": [
+        {
+          "Item1": "UiPath",
+          "Item2": "[20.4.7422.14731, 20.4.7422.14731]"
+        },
+        {
+          "Item1": "UiPath.Vision",
+          "Item2": "[2.0.3, )"
+        },
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.6.0, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[20.4.0, )"
+        },
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[5.0.3, )"
+        },
+        {
+          "Item1": "Extended.Wpf.Toolkit",
+          "Item2": "[2.8.0, )"
+        },
+        {
+          "Item1": "Humanizer.Core",
+          "Item2": "[2.4.2, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "System.IO.Abstractions",
+          "Item2": "[3.0.10, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[1.1.51, )"
+        }
+      ]
+    },
+    "UiPath.Vision": {
+      "Id": "UiPath.Vision",
+      "Version": "2.0.3",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[2.6.0, )"
+        }
+      ]
+    },
+    "UiPathTeam.ActivitiesReadEmailToPdf": {
+      "Id": "UiPathTeam.ActivitiesReadEmailToPdf",
+      "Version": "1.0.0.2",
+      "Dependencies": []
+    },
+    "UiPathTeam.PDF.Extensions.Activities": {
+      "Id": "UiPathTeam.PDF.Extensions.Activities",
+      "Version": "2.4.0",
+      "Dependencies": [
+        {
+          "Item1": "PDFsharp",
+          "Item2": "[1.50.5147, )"
+        }
+      ]
+    }
+  },
+  "AllPackages": [
+    {
+      "Package": {
+        "Id": "AvalonEdit",
+        "Version": "5.0.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\avalonedit\\5.0.3\\lib\\Net40\\ICSharpCode.AvalonEdit.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\avalonedit\\5.0.3"
+    },
+    {
+      "Package": {
+        "Id": "BalaReva.Excel.Activities",
+        "Version": "2019.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.excel.activities\\2019.4.0\\lib\\BalaReva.Excel.Base.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.excel.activities\\2019.4.0\\lib\\BalaReva.Excel.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.excel.activities\\2019.4.0\\lib\\BalaReva.Excel.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.excel.activities\\2019.4.0\\lib\\BalaReva.Utilities.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\balareva.excel.activities\\2019.4.0"
+    },
+    {
+      "Package": {
+        "Id": "BalaReva.PowerPoint.Activities",
+        "Version": "3.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.powerpoint.activities\\3.0.0\\lib\\BalaReva.PowerPoint.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.powerpoint.activities\\3.0.0\\lib\\BalaReva.PowerPoint.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\balareva.powerpoint.activities\\3.0.0\\lib\\BalaReva.Utilities.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\balareva.powerpoint.activities\\3.0.0"
+    },
+    {
+      "Package": {
+        "Id": "BitMiracle.Docotic.Pdf",
+        "Version": "5.10.9957"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.10.9957\\lib\\net40\\BitMiracle.Docotic.Pdf.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\bitmiracle.docotic.pdf\\5.10.9957"
+    },
+    {
+      "Package": {
+        "Id": "BouncyCastle",
+        "Version": "1.8.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\bouncycastle\\1.8.5\\lib\\BouncyCastle.Crypto.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\bouncycastle\\1.8.5"
+    },
+    {
+      "Package": {
+        "Id": "ClosedXML",
+        "Version": "0.87.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\closedxml\\0.87.1\\lib\\net40\\ClosedXML.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\closedxml\\0.87.1"
+    },
+    {
+      "Package": {
+        "Id": "CsvHelper",
+        "Version": "2.13.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\csvhelper\\2.13.5\\lib\\net40-client\\CsvHelper.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\csvhelper\\2.13.5"
+    },
+    {
+      "Package": {
+        "Id": "DocumentFormat.OpenXml",
+        "Version": "2.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\documentformat.openxml\\2.5.0\\lib\\DocumentFormat.OpenXml.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\documentformat.openxml\\2.5.0"
+    },
+    {
+      "Package": {
+        "Id": "ExceltoPDFConversion.Activities",
+        "Version": "1.1.7"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\exceltopdfconversion.activities\\1.1.7\\lib\\ExceltoPDFConversion.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\exceltopdfconversion.activities\\1.1.7"
+    },
+    {
+      "Package": {
+        "Id": "ExceltoPDFConversionActivities",
+        "Version": "1.1.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\exceltopdfconversionactivities\\1.1.5\\lib\\ExceltoPDFConversion.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\exceltopdfconversionactivities\\1.1.5"
+    },
+    {
+      "Package": {
+        "Id": "Extended.Wpf.Toolkit",
+        "Version": "2.8.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0"
+    },
+    {
+      "Package": {
+        "Id": "FestSystems.PDFtoExcel.Activities",
+        "Version": "1.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\festsystems.pdftoexcel.activities\\1.0.1\\lib\\PDFExcelFile.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\festsystems.pdftoexcel.activities\\1.0.1"
+    },
+    {
+      "Package": {
+        "Id": "HtmlRenderer.Core",
+        "Version": "1.5.1-beta1"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\htmlrenderer.core\\1.5.1-beta1\\lib\\net45\\HtmlRenderer.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\htmlrenderer.core\\1.5.1-beta1"
+    },
+    {
+      "Package": {
+        "Id": "HtmlRenderer.PdfSharp",
+        "Version": "1.5.1-beta1"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\htmlrenderer.pdfsharp\\1.5.1-beta1\\lib\\net45\\HtmlRenderer.PdfSharp.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\htmlrenderer.pdfsharp\\1.5.1-beta1"
+    },
+    {
+      "Package": {
+        "Id": "HtmlToPdf.Activities",
+        "Version": "1.4.6"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\htmltopdf.activities\\1.4.6\\lib\\HtmlToPdfConvertLibrary.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\htmltopdf.activities\\1.4.6\\lib\\HtmlToPdfConvertLibrary.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\htmltopdf.activities\\1.4.6"
+    },
+    {
+      "Package": {
+        "Id": "Humanizer.Core",
+        "Version": "2.4.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\humanizer.core\\2.4.2\\lib\\netstandard2.0\\Humanizer.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\humanizer.core\\2.4.2"
+    },
+    {
+      "Package": {
+        "Id": "interop.domino.dll",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\interop.domino.dll\\1.0.0\\lib\\Interop.Domino.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\interop.domino.dll\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "iTextSharp",
+        "Version": "5.5.13"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\itextsharp\\5.5.13\\lib\\itextsharp.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\itextsharp\\5.5.13"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.AspNet.SignalR.Client",
+        "Version": "2.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\net45\\Microsoft.AspNet.SignalR.Client.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Exchange.WebServices",
+        "Version": "2.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Office.Interop.Excel",
+        "Version": "15.0.4795.1000"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000\\lib\\net20\\Microsoft.Office.Interop.Excel.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Office.Interop.PowerPoint",
+        "Version": "15.0.4420.1017"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.office.interop.powerpoint\\15.0.4420.1017\\lib\\net20\\Microsoft.Office.Interop.PowerPoint.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\microsoft.office.interop.powerpoint\\15.0.4420.1017"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Rest.ClientRuntime",
+        "Version": "2.3.20"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20\\lib\\net461\\Microsoft.Rest.ClientRuntime.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.VisualStudio.OLE.Interop",
+        "Version": "7.10.6071"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071\\lib\\Microsoft.VisualStudio.OLE.Interop.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071"
+    },
+    {
+      "Package": {
+        "Id": "MicrosoftOfficeCore",
+        "Version": "15.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\microsoftofficecore\\15.0.0\\lib\\net35\\Office.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\microsoftofficecore\\15.0.0"
+    },
+    {
+      "Package": {
+        "Id": "Newtonsoft.Json",
+        "Version": "11.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\newtonsoft.json\\11.0.2\\lib\\net45\\Newtonsoft.Json.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\newtonsoft.json\\11.0.2"
+    },
+    {
+      "Package": {
+        "Id": "NPOI",
+        "Version": "2.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\npoi\\2.4.1"
+    },
+    {
+      "Package": {
+        "Id": "PDFsharp",
+        "Version": "1.50.5147"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\pdfsharp\\1.50.5147\\lib\\net20\\PdfSharp.Charting.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\pdfsharp\\1.50.5147\\lib\\net20\\PdfSharp.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\pdfsharp\\1.50.5147"
+    },
+    {
+      "Package": {
+        "Id": "PDF_Activities",
+        "Version": "1.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\pdf_activities\\1.0.2\\lib\\pdfLibrary.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\pdf_activities\\1.0.2"
+    },
+    {
+      "Package": {
+        "Id": "SharpZipLib",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\sharpziplib\\1.0.0\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\sharpziplib\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "System.IO.Abstractions",
+        "Version": "3.0.10"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\net40\\System.IO.Abstractions.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\system.io.abstractions\\3.0.10"
+    },
+    {
+      "Package": {
+        "Id": "System.Threading.Tasks.Dataflow",
+        "Version": "4.10.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0\\lib\\netstandard2.0\\System.Threading.Tasks.Dataflow.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0"
+    },
+    {
+      "Package": {
+        "Id": "System.ValueTuple",
+        "Version": "4.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\net461\\System.ValueTuple.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\system.valuetuple\\4.5.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath",
+        "Version": "20.4.7422.14731"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath\\20.4.7422.14731\\lib\\UiPath.Interop.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath\\20.4.7422.14731"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.AppulateClient.Activities",
+        "Version": "0.1.6971.31392"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.appulateclient.activities\\0.1.6971.31392\\lib\\net461\\UiPath.AppulateClient.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.appulateclient.activities\\0.1.6971.31392\\lib\\net461\\UiPath.AppulateClient.Activities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.appulateclient.activities\\0.1.6971.31392\\lib\\net461\\UiPath.AppulateClient.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.appulateclient.activities\\0.1.6971.31392"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.8.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.excel.activities\\2.8.5\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.excel.activities\\2.8.5\\lib\\net461\\UiPath.Excel.Activities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.excel.activities\\2.8.5\\lib\\net461\\UiPath.Excel.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.excel.activities\\2.8.5"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.8.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.mail.activities\\1.8.5\\lib\\net461\\MailKit.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.mail.activities\\1.8.5\\lib\\net461\\MimeKit.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.mail.activities\\1.8.5\\lib\\net461\\UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.mail.activities\\1.8.5\\lib\\net461\\UiPath.Mail.Activities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.mail.activities\\1.8.5\\lib\\net461\\UiPath.Mail.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.mail.activities\\1.8.5"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.OCR.Contracts",
+        "Version": "2.6.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0\\lib\\net461\\UiPath.OCR.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.ocr.contracts\\2.6.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.PDF.Activities",
+        "Version": "3.2.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.pdf.activities\\3.2.2\\lib\\net461\\UiPath.PDF.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.pdf.activities\\3.2.2\\lib\\net461\\UiPath.PDF.Activities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.pdf.activities\\3.2.2\\lib\\net461\\UiPath.PDF.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.pdf.activities\\3.2.2"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Platform",
+        "Version": "20.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.platform\\20.4.0\\lib\\net461\\UiPath.Platform.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.platform\\20.4.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "20.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\CustomInputForm.exe",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\UiPath.OrchestratorClient.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\UiPath.System.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0\\lib\\net461\\UiPath.System.Activities.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.system.activities\\20.4.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Telemetry.Client",
+        "Version": "1.1.51"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.telemetry.client\\1.1.51\\lib\\net461\\TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.telemetry.client\\1.1.51"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "20.4.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.CV.Activities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.CV.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1\\lib\\net461\\UiPath.Wizards.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.uiautomation.activities\\20.4.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Vision",
+        "Version": "2.0.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.vision\\2.0.3\\lib\\net461\\UiPath.Vision.Core.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipath.vision\\2.0.3\\lib\\net461\\UiPath.Vision.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipath.vision\\2.0.3"
+    },
+    {
+      "Package": {
+        "Id": "UiPathTeam.ActivitiesReadEmailToPdf",
+        "Version": "1.0.0.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipathteam.activitiesreademailtopdf\\1.0.0.2\\lib\\Interop.ADODB.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipathteam.activitiesreademailtopdf\\1.0.0.2\\lib\\Interop.CDO.dll",
+        "C:\\Users\\lilli\\.nuget\\packages\\uipathteam.activitiesreademailtopdf\\1.0.0.2\\lib\\MailActivities.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipathteam.activitiesreademailtopdf\\1.0.0.2"
+    },
+    {
+      "Package": {
+        "Id": "UiPathTeam.PDF.Extensions.Activities",
+        "Version": "2.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\lilli\\.nuget\\packages\\uipathteam.pdf.extensions.activities\\2.4.0\\lib\\net461\\UiPathTeam.PDF.Extensions.Activities.dll"
+      ],
+      "Path": "C:\\Users\\lilli\\.nuget\\packages\\uipathteam.pdf.extensions.activities\\2.4.0"
+    }
+  ]
+}
